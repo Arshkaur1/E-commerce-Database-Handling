@@ -1,0 +1,6 @@
+﻿ user_id , user_name , email , password , address , phone_number 
+ 1 , john_doe , john@example.com , password123 ," 1234 Main St, City ", 123-456-7890 
+ 2 , jane_smith , jane@example.com , securepass ," 5678 Elm St, Town ", 987-654-3210 
+ 3 , alex_johnson , alex@example.com , pass123word ," 91011 Oak St, Hills ", 111-222-3333 
+ 4 , emma_brown , emma@example.com , strongpassword ," 2468 Pine St, Village ", 444-555-6666 
+ 5 , michael_davis , michael@example.com , safePass789 ," 1357 Maple St, Suburb ", 777-888-9999 

@@ -1,0 +1,6 @@
+﻿product_id,product_name ,price   ,description,category,stock_quantity 
+1,Smartphone,699.99,Latest smartphone with advanced features,Electronics,50
+2,Laptop,1299.99,High-performance laptop for work and gaming,Electronics,30
+3,Book,19.99,Bestseller book on various topics,Books,100
+4,Headphones,149.99,Noise-canceling headphones for immersive experience,Electronics,20
+5,Smartwatch,299.99,Health and fitness tracker with smart features,Electronics,40
